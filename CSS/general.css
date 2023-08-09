@@ -1,0 +1,52 @@
+/* GENERAL CSS [START] */
+/* global vars in root [start] */
+:root{
+    --bg-color:#fff;
+    --text-color: #282b30;
+    --shadow-image: 0 0 1px rgba(40,43,48,.4), 0 1px 4px rgba(40,43,48,.1);
+    --shadow-icon: 0 0 0 1px rgba(90,90,246,.2);
+    --cream-color: rgba(171,182,193,.05);
+    --shadow-inset: inset 0 1px 0 rgba(171,182,193,.15);
+}
+/* global vars in root [end] */
+/* add fonts */
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Thin.ttf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: Barlow;
+    src: url(fonts/Barlow-Black.ttf);
+    font-weight: 900;
+}
+/* general stuff */
+*{
+    font-family: Barlow;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+/* GENERAL CSS [END] */
