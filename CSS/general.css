@@ -12,32 +12,32 @@
 /* add fonts */
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Thin.ttf);
+    src: url("/fonts/Barlow-Thin.otf");
     font-weight: 100;
 }
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Light.ttf);
+    src: url("/fonts/Barlow-Light.otf");
     font-weight: 300;
 }
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Regular.ttf);
+    src: url("/fonts/Barlow-Regular.otf");
     font-weight: 400;
 }
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Medium.ttf);
+    src: url("/fonts/Barlow-Medium.otf");
     font-weight: 500;
 }
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Bold.ttf);
+    src: url("/fonts/Barlow-Bold.otf");
     font-weight: 700;
 }
 @font-face {
     font-family: Barlow;
-    src: url(fonts/Barlow-Black.ttf);
+    src: url("/fonts/Barlow-Black.otf");
     font-weight: 900;
 }
 /* general stuff */
