@@ -99,7 +99,7 @@ main>.container>.Projects-Explanation{
     gap: 20px;
   }
   /* project item styles set display to flex */
-  .project-item{
+.project-item>a>img{
     display: flex;
     align-items: stretch;
     text-align: center;
